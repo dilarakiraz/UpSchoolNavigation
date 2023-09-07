@@ -46,3 +46,6 @@ Navigation Component Homework
 Dikkat Edilmesi Gerekenler
 - 1.2 ve 3.Sayfalarda LinearLayout, 4.Sayfada ConstraintLayout kullanılmalı
 - data classlar Parcelable olarak taşınmalı
+
+  https://github.com/dilarakiraz/UpSchoolNavigation/assets/76565172/bf021ddc-b16c-4676-adad-1a258c1bdf47
+
